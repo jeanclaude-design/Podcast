@@ -1,0 +1,22 @@
+# Core
+openai
+python-dotenv
+requests
+
+# File Extraction
+pypdf
+docx2txt
+pandas
+openpyxl
+nbformat
+
+# Web & YouTube Scraping
+beautifulsoup4
+trafilatura
+youtube-transcript-api
+
+# OCR Dependencies
+pdf2image
+pytesseract
+Pillow
+mistralai
